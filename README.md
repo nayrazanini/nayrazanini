@@ -1,12 +1,11 @@
 <!-- Banner com imagem personalizada -->
-<img src="[https://github.com/nayrazanini/nayra.dev-portfolio/blob/main/assets/banner.png](https://raw.githubusercontent.com/nayrazanini/nayrazanini/main/banner.png
-)" alt="Banner Nayra Zanini" style="width:100%; border-radius: 8px;"/>
+<img src="https://raw.githubusercontent.com/nayrazanini/nayrazanini/main/banner.png" alt="Banner Nayra Zanini" style="width:100%; border-radius: 8px;"/>
 
-<h2 align="center">Olá, eu sou a <span style="color:#FFD700">Náyra Zanini</span> 👋</h2>
+<h2 align="center">Hey, eu sou a <span style="color:#FFD700">Náyra Zanini</span> 👋</h2>
 
 <p align="center">
   Em transição para a área de tecnologia, com foco em Engenharia de Software. <br>
-  Apaixonada por organização, automação e aprendizado constante. 🎯💻📚
+  Apaixonada por organização, automação e aprendizado constante. 🎯
 </p>
 
 ---
@@ -14,7 +13,7 @@
 ### 💡 Sobre mim
 
 - 🎓 Pós-graduanda em Engenharia de Software | Formada em ADS  e ADM com Ênfase em TI
-- 📚 Estudando JavaScript, SQL, Testes e Scrum  
+- 📚 Estudando JavaScript, SQL, Testes e Metodologias Ágeis (Scrum)  
 - 🛠️ Desenvolvendo projetos próprios para aprendizado e portfólio  
 - 🤝 Apaixonada por ajudar outras pessoas a entenderem tecnologia  
 
@@ -31,7 +30,40 @@
 
 ---
 
-### 📊 Minhas estatísticas no GitHub
+## 📌 Portfólio de Projetos
+
+<table>
+  <tr>
+    <td align="center" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+    </td>
+    <td>
+      <strong>Calculadora Rankeadas (DIO)</strong>  
+      <br>
+      Projeto para classificar jogadores baseado em vitórias e derrotas.
+      <br>
+      <a href="https://nayrazanini.github.io/nayra.dev-portfolio/projetos/Projetos-de-Estudo/calculadora-rankeadas.html">
+        <img src="https://img.shields.io/badge/VER MATERIAL-FC466B?style=for-the-badge&logo=codeforces&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+    </td>
+    <td>
+      <strong>AutoResumo</strong>  
+      <br>
+      Gerador de resumos semanais automatizados com apoio de IA e integração com agenda.
+      <br>
+      <a href="https://nayrazanini.github.io/projeto-n/">
+        <img src="https://img.shields.io/badge/VER MATERIAL-20B2AA?style=for-the-badge&logo=notion&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Minhas estatísticas no GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayrazanini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -40,13 +72,25 @@
 
 ---
 
-### 📫 Como me encontrar
+### Como me encontrar
 
-- 💼 [LinkedIn](https://linkedin.com/in/nayra-zanini)
-- 🌐 [Portfólio](https://nayrazanini.github.io/nayra.dev-portfolio/)
-- ✉️ zanini.n@outlook.com.br
-- 💬 WhatsApp: [Clique aqui para conversar](https://wa.me/5511981368778)
+<p align="center">
+  <a href="mailto:zanini.n@outlook.com.br">
+    <img src="https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+  <a href="https://www.linkedin.com/in/nayra-zanini" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/nazanini_" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://wa.me/5511981368778" target="_blank">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://nayrazanini.github.io/nayra.dev-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFÓLIO-111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio">
+  </a>
+</p>
 
----
 
-📌 *Este espaço é para meu crescimento e evolução. Obrigada por visitar! 💛*
+
