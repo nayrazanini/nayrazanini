@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-### Minhas estatísticas no GitHub
+###  📊 Minhas estatísticas no GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayrazanini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -72,7 +72,7 @@
 
 ---
 
-### Como me encontrar
+###  📫 Como me encontrar
 
 <p align="center">
   <a href="mailto:zanini.n@outlook.com.br">
