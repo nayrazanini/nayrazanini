@@ -61,6 +61,21 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+    </td>
+    <td>
+      <strong>Calculadora de Nota Final</strong>  
+      <br>
+      Simulador interativo criado com JavaScript para automatizar o cálculo de médias de questionários com base em tentativas.  
+      Projeto inspirado em planilhas usadas no ambiente administrativo, criado para facilitar o dia a dia dos colaboradores.
+      <br>
+      <a href="https://nayrazanini.github.io/nayra.dev-portfolio/projetos/Projetos-de-Estudo/calculadora-notas.html">
+        <img src="https://img.shields.io/badge/VER MATERIAL-FFD700?style=for-the-badge&logo=javascript&logoColor=black"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ###  📊 Minhas estatísticas no GitHub
