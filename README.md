@@ -76,6 +76,21 @@
       </a>
     </td>
   </tr>
+<tr>
+  <td align="center" width="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  </td>
+  <td>
+    <strong>Herói de Aventura (DIO)</strong>  
+    <br>
+    Projeto desenvolvido para treinar classes, métodos e estruturas condicionais em JavaScript. Exibe mensagens personalizadas de ataque com base no tipo do herói.
+    <br>
+    <a href="https://nayrazanini.github.io/nayra.dev-portfolio/projetos/Projetos-de-Estudo/projeto-heroi2.html">
+      <img src="https://img.shields.io/badge/VER MATERIAL-FD7E14?style=for-the-badge&logo=javascript&logoColor=white"/>
+    </a>
+  </td>
+</tr>
+  
 </table>
 
 ###  📊 Minhas estatísticas no GitHub
