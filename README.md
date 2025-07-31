@@ -1,5 +1,5 @@
 <!-- Banner com imagem personalizada -->
-<img src="https://raw.githubusercontent.com/nayrazanini/nayrazanini/main/banner.png" alt="Banner Nayra Zanini" style="width:100%; border-radius: 8px;"/>
+<img src="https://raw.githubusercontent.com/nayrazanini/nayrazanini/main/banner.png" alt="banner" style="width:100%; border-radius: 8px;"/>
 
 <h2 align="center">Hey, eu sou a <span style="color:#FFD700">Náyra Zanini</span> 👋</h2>
 
