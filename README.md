@@ -1,33 +1,32 @@
-<!-- Banner com imagem personalizada -->
 <img src="https://raw.githubusercontent.com/nayrazanini/nayrazanini/main/banner.png" alt="banner" style="width:100%; border-radius: 8px;"/>
 
 <h2 align="center">Hey, eu sou a <span style="color:#FFD700">Náyra Zanini</span> 👋</h2>
 
 <p align="center">
-  Em transição para a área de tecnologia, com foco em Engenharia de Software. <br>
-  Apaixonada por organização, automação e aprendizado constante. 🎯
+  <strong>Programadora Jr. com foco em soluções de banco de dados e SQL Server.</strong> <br>
+  Apaixonada por unir minha visão de negócios à tecnologia para otimizar processos e criar soluções eficientes. 🎯
 </p>
 
 ---
 
 ### 💡 Sobre mim
 
-- 🎓 Pós-graduanda em Engenharia de Software | Formada em ADS  e ADM com Ênfase em TI
-- 📚 Estudando JavaScript, SQL, Testes e Metodologias Ágeis (Scrum)  
-- 🛠️ Desenvolvendo projetos próprios para aprendizado e portfólio  
-- 🤝 Apaixonada por ajudar outras pessoas a entenderem tecnologia  
+- 🎓 Pós-graduanda em Engenharia de Software | Formada em ADS e ADM com Ênfase em TI
+- 🚀 Aprimorando minhas habilidades em SQL (T-SQL), JavaScript e Metodologias Ágeis (Scrum)
+- 🛠️ Desenvolvendo projetos próprios para fortalecer meus conhecimentos e construir portfólio
+- 🤝 Apaixonada por ajudar outras pessoas a entenderem tecnologia
 
 ---
 
-### 🚀 Tecnologias que estou aprendendo e praticando
+### 💻 Tecnologias e Ferramentas
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-0093D1?style=for-the-badge&logo=scrum&logoColor=white)
 
 ---
 
@@ -39,7 +38,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
     </td>
     <td>
-      <strong>Calculadora Rankeadas (DIO)</strong>  
+      <strong>Calculadora Rankeadas (DIO)</strong>
       <br>
       Projeto para classificar jogadores baseado em vitórias e derrotas.
       <br>
@@ -53,7 +52,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
     </td>
     <td>
-      <strong>AutoResumo</strong>  
+      <strong>AutoResumo</strong>
       <br>
       Gerador de resumos semanais automatizados com apoio de IA e integração com agenda.
       <br>
@@ -67,9 +66,9 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
     </td>
     <td>
-      <strong>Calculadora de Nota Final</strong>  
+      <strong>Calculadora de Nota Final</strong>
       <br>
-      Simulador interativo criado com JavaScript para automatizar o cálculo de médias de questionários com base em tentativas.  
+      Simulador interativo criado com JavaScript para automatizar o cálculo de médias de questionários com base em tentativas.
       Projeto inspirado em planilhas usadas no ambiente administrativo, criado para facilitar o dia a dia dos colaboradores.
       <br>
       <a href="https://nayrazanini.github.io/nayra.dev-portfolio/projetos/Projetos-de-Estudo/calculadora-notas.html">
@@ -82,7 +81,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   </td>
   <td>
-    <strong>Herói de Aventura (DIO)</strong>  
+    <strong>Herói de Aventura (DIO)</strong>
     <br>
     Projeto desenvolvido para treinar classes, métodos e estruturas condicionais em JavaScript. Exibe mensagens personalizadas de ataque com base no tipo do herói.
     <br>
@@ -91,7 +90,7 @@
     </a>
   </td>
 </tr>
-  
+
 </table>
 
 ###  📊 Minhas estatísticas no GitHub
@@ -122,6 +121,5 @@
     <img src="https://img.shields.io/badge/PORTFÓLIO-111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio">
   </a>
 </p>
-
 
 
