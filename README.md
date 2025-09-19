@@ -3,8 +3,8 @@
 <h2 align="center">Hey, eu sou a <span style="color:#FFD700">Náyra Zanini</span> 👋</h2>
 
 <p align="center">
-  <strong>Programadora Jr. com foco em soluções de banco de dados e SQL Server.</strong> <br>
-  Apaixonada por unir minha visão de negócios à tecnologia para otimizar processos e criar soluções eficientes. 🎯
+ Iniciando minha carreira em tecnologia como <strong> Programadora Jr.</strong>, onde aplico e aprofundo meus conhecimentos em SQL Server para a construção de soluções de dados.</strong> <br>
+
 </p>
 
 ---
