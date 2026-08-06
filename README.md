@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nayrazanini/nayrazanini/main/banner3.png" alt="banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/nayrazanini/nayrazanini/main/imagem1.png" alt="banner" width="100%"/>
 
 <h1 align="center">Olá! Eu sou a Náyra Zanini 👋</h1>
 
