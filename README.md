@@ -21,9 +21,11 @@
 
 # 👩🏻‍💻 Sobre mim
 
-Sou **Analista de Dados**, apaixonada por tecnologia, banco de dados e desenvolvimento de soluções.
+Sou Programadora Jr. e trabalho com SQL Server, suporte e análise de dados, criando soluções que unem tecnologia, qualidade e visão de negócio.
 
-Atuo com **SQL Server**, participando da criação e manutenção de consultas, procedures, validações de regras de negócio e otimização de processos. Minha trajetória reúne experiência administrativa e tecnologia, permitindo compreender as necessidades do negócio e transformá-las em soluções eficientes.
+Sou graduada em Administração com ênfase em TI e Análise e Desenvolvimento de Sistemas, além de pós-graduada em Engenharia de Software. Gosto de transformar problemas em soluções por meio de dados, regras de negócio e boas práticas de desenvolvimento.
+
+Sou apaixonada por esportes, principalmente futebol, gosto de treinar na academia e adoro passar um tempo jogando online. Também não recuso um bom café e uma boa conversa.
 
 Hoje concentro meus estudos e projetos em:
 
