@@ -3,7 +3,7 @@
 <h1 align="center">Olá! Eu sou a Náyra Zanini 👋</h1>
 
 <p align="center">
-  <strong>Analista de Dados • SQL Server • Engenharia de Software • Desenvolvimento de Soluções</strong>
+  <strong>Programadora Jr. • Análise de Dados • SQL Server • Engenharia de Software • Desenvolvimento de Soluções</strong>
 </p>
 
 <p align="center">
